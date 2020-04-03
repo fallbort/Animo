@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name = "Animo"
-    s.version = "1.4.0"
+    s.version = "900.0.0"
     s.swift_version = "4.1"
     s.license = "MIT"
     s.summary = "Bring life to CALayers with SpriteKit-like animation builders."
